@@ -24,7 +24,7 @@
 
   <h2>Freies Bild</h2>
   <figure>
-    <img src="img/bild1.jpg" width="400" height="auto" title="Freies Bild" alt="Beschreibung des Bildes">
+    <img src="img/bild1.jpg" width="400" height="auto" title="Freies Bild" alt="Uhrhebr rechte und link zu dem bild">
     <figcaption>
       Foto von <a href="https://www.istockphoto.com/de">iStock</a>,
       <a href="https://www.istockphoto.com/photo/soccer-player-putting-sports-ball-on-grass-gm1777139484-546422127">Soccer player putting sports ball on grass stock photo</a>,
